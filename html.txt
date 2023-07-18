@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>kosuri venkatesh</title>
+</head>
+<body>
+<h1>THIS IS MY FIRST HEADING</h1>
+<P>THIS IS FIRST PARAGRAPH</p>
+</body>
+</html>
